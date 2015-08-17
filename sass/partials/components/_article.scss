@@ -55,6 +55,19 @@ article{
         }
     }
 
+    .play_button {
+        text-align: center;
+        font-weight: bold;
+        border: 1px solid $darkgray;
+        width: 50%;
+        margin: 20px 25%;
+        padding: 10px;
+
+        a {
+            border-bottom: $noborder;
+        }
+    }
+
     ul,
     ol{
         list-style: circle;

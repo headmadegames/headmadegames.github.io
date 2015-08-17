@@ -1,0 +1,81 @@
+
+ld32-default2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+middle
+  rotate: false
+  xy: 1, 261
+  size: 816, 518
+  orig: 816, 518
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 1, 131
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+uiskin
+  rotate: false
+  xy: 1, 1
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+lance
+  rotate: false
+  xy: 259, 195
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+
+ld32-default3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player
+  rotate: false
+  xy: 1, 1
+  size: 816, 518
+  orig: 816, 518
+  offset: 0, 0
+  index: -1
+
+ld32-default4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shout
+  rotate: false
+  xy: 1, 1
+  size: 816, 518
+  orig: 816, 518
+  offset: 0, 0
+  index: -1
+
+ld32-default5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+thought
+  rotate: false
+  xy: 1, 1
+  size: 816, 518
+  orig: 816, 518
+  offset: 0, 0
+  index: -1
+
+ld32-default6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ld32_default
+  rotate: false
+  xy: 1, 1
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1

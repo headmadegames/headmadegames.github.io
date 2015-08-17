@@ -1,0 +1,55 @@
+
+ld32-default.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 1, 483
+  size: 816, 518
+  orig: 816, 518
+  offset: 0, 0
+  index: -1
+overlay
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+rider
+  rotate: false
+  xy: 819, 714
+  size: 118, 287
+  orig: 118, 287
+  offset: 0, 0
+  index: -1
+9patch_base
+  rotate: false
+  xy: 819, 648
+  size: 64, 64
+  split: 24, 27, 30, 17
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+grab
+  rotate: false
+  xy: 819, 582
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 939, 871
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+dragSource
+  rotate: false
+  xy: 885, 680
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

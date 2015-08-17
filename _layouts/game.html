@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include head.html %}
+		<link href="styles.css" rel="stylesheet" type="text/css">
+		<script src="soundmanager2-setup.js"></script>
+		<script src="soundmanager2-jsmin.js"></script>
+    </head>
+
+    <body>
+        {% include svg.html %}
+        <header class="head">
+            {% include header.html %}
+            {% include nav.html %}
+        </header>
+        {% include search.html %}
+        <section class="margin">
+            <div class="content full">
+                <div class="content_container">
+                    <article>
+                        {% if page.featimg %}
+                            <img class="featimg" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.featimg }}" alt="{{ page.featimg }}">
+                        {% endif %}
+
+                        <h1 class="page_title">
+                            {{ page.title }}
+                        </h1>
+                        <div class="post_content">
+              							<div align="center" id="embed-html"></div>
+              							<script type="text/javascript" src="html/html.nocache.js"></script>
+                            {{ content }}
+                        </div>
+
+                        {% if page.category || page.tags %}
+                        <div class="catsandtags">
+                            {% if page.tags %}
+                            <p class="tags">
+                                <span class="name">Tags:</span>
+                                {% for tag in page.tags %}
+                                    <a href="{{ site.tag_dir | prepend: site.baseurl | replace: '//', '/' }}/{{ tag }}">{{ tag }}</a>
+                                {% endfor %}
+                            </p>
+                            {% endif %}
+                        </div>
+                        {% endif %}
+                    </article>
+                </div>
+            </div>
+        </section>
+        {% include footer.html %}
+        <script src="{{ site.baseurl | replace: '//', '/' }}/js/build/global.min.js"></script>
+
+       <script>
+              function handleMouseDown(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                evt.target.style.cursor = 'default';
+              }
+
+              function handleMouseUp(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                evt.target.style.cursor = '';
+              }
+              document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+              document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+       </script>
+    </body>
+</html>

@@ -10,16 +10,15 @@ category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
-author_default_avatar: /profile-pic.jpg
+author_default_avatar: /profile-pic.png
 # tumblr: "#"
 # pinterest: "#"
 # instagram: "#"
 twitter: "https://twitter.com/HeadmadeGames"
 github: "https://github.com/headmadegames"
 ludumdare: "http://ludumdare.com/compo/author/headmade/"
-youtube: "http://youtube.com/headmadegames/"
+# youtube: "https://www.youtube.com/channel/UCiJJbeMwuYktPJLXTYodaUw"
 # facebook: "#"
-# youtube: "#"
 # vimeo: "#"
 # soundcloud: "#"
 
