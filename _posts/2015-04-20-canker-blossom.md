@@ -3,8 +3,7 @@ author: headmade
 type: image
 title: Ludum Dare 32 - Canker Blossom
 featimg: canker_blossom.png
-tags: [Ludum Dare, Game, Canker Blossom, Play Online]
-category: [Game, Play]
+tags: [Ludum Dare, Games, Play Online]
 ---
 
 Canker Blossom is my entry to Ludum Dare 32. It's a shakespearean insults simulator.

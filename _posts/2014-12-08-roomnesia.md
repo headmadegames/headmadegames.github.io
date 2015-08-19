@@ -3,8 +3,7 @@ author: headmade
 type: image
 title: Ludum Dare 31 - Roomnesia
 featimg: roomnesia.png
-tags: [Ludum Dare, Roomnesia, Game]
-category: [Game]
+tags: [Ludum Dare, Games]
 ---
 Roomnesia is my entry to Ludum Dare 31. You have to explore a dungeon but unfortunately you have memory problems...
 

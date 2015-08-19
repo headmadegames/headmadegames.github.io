@@ -53,14 +53,8 @@
                         <div class="post_content">
                             {{ content }}
                         </div>
-                        {% if page.category || page.tags %}
+                        {% if page.tags %}
                         <div class="catsandtags">
-                            {% if page.category %}
-                            <p class="category">
-                                <span class="name">Categories:</span>
-                                {{ page.categories | category_links }}
-                            </p>
-                            {% endif %}
                             {% if page.tags %}
                             <p class="tags">
                                 <span class="name">Tags:</span>
@@ -72,6 +66,7 @@
                         </div>
                         {% endif %}
                     </article>
+
                     <div class="post_nav">
                         {% if page.previous.url %}
                         <a class="prev" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-left"></i><span class="short"> prev</span><span class="long">ious post</span></a>
