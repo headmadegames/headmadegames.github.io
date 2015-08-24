@@ -1,6 +1,6 @@
 name: Headmade Games
 description: Quality headmade games since 1873.
-url: http://headmadegames.github.io/
+url: http://headmadegames.github.io
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8

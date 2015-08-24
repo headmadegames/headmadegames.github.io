@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Headmade Games
+sitemap:
+  priority: '1.0'
 ---
 ## Quality headmade games since 1873.
 
