@@ -2,6 +2,7 @@
 author: headmade
 type: image
 title: Ludum Dare 33 - Sticky Pudding
+description: Headmade Game Sticky Pudding
 featimg: sticky_pudding.png
 tags: [Ludum Dare, Games, Play Online]
 ---
@@ -19,3 +20,5 @@ Download and run: <a href="https://github.com/headmadegames/LudumDare33/releases
 Download Android APK: <a href="https://github.com/headmadegames/LudumDare33/releases/download/0.1/Sticky_Pudding_LD33.apk">Sticky_Pudding_LD33.apk</a>
 
 Source code: <a href="https://github.com/headmadegames/LudumDare33">Github Repository</a>
+
+Post mortem: <a href="/post-mortem-sticky-pudding/">Sticky Pudding post mortem</a>

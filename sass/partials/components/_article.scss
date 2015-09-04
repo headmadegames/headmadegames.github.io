@@ -81,6 +81,19 @@ article{
     ol{
         list-style: decimal;
     }
+
+    td{
+        padding: 5px;
+        border: 1px solid lightgray;
+    }
+
+    table {
+        margin: 20px 0;
+    }
+
+    p {
+        margin: 10px 0;
+    }
 }
 
 .wrapper{

@@ -2,6 +2,7 @@
 author: headmade
 type: image
 title: Ludum Dare 31 - Roomnesia
+description: Headmade Game Roomnesia
 featimg: roomnesia.png
 tags: [Ludum Dare, Games]
 ---

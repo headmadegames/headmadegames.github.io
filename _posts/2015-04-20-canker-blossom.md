@@ -2,6 +2,7 @@
 author: headmade
 type: image
 title: Ludum Dare 32 - Canker Blossom
+description: Headmade Game Canker Blossom
 featimg: canker_blossom.png
 tags: [Ludum Dare, Games, Play Online]
 ---
