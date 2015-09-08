@@ -2,9 +2,9 @@
 layout: page
 title: Headmade Games
 sitemap:
-  priority: '1.0'
+  priority: '1'
 ---
-## Quality headmade games since 1873.
+## Quality indie games made by head since 1873. Ok, I might be lying about the quality but the headmade part is definitely true.
 
 Check out my games on <a target="_blank" href="http://ludumdare.com/compo/author/headmade/">Ludum Dare</a>
 
