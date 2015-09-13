@@ -1,0 +1,585 @@
+
+pack.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button
+  rotate: false
+  xy: 1, 1
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 75, 1
+  size: 28, 30
+  split: 13, 13, 14, 14
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 149, 1
+  size: 72, 74
+  split: 34, 36, 36, 36
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+frame2_color
+  rotate: false
+  xy: 223, 1
+  size: 72, 74
+  split: 34, 36, 36, 36
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+guard00
+  rotate: false
+  xy: 297, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guard02
+  rotate: false
+  xy: 297, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guard01
+  rotate: false
+  xy: 371, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guard03
+  rotate: false
+  xy: 1, 112
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+howto
+  rotate: false
+  xy: 75, 112
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+joystick
+  rotate: false
+  xy: 149, 112
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+magpie
+  rotate: false
+  xy: 223, 112
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+paper
+  rotate: false
+  xy: 297, 112
+  size: 64, 73
+  split: 32, 30, 38, 33
+  pad: 25, 24, 28, 30
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 371, 112
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+quit
+  rotate: false
+  xy: 371, 112
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 1, 223
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+large/title_roman_caps
+  rotate: false
+  xy: 1, 110
+  size: 640, 107
+  orig: 640, 107
+  offset: 0, 0
+  index: -1
+
+pack3.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiles/banner
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/black1
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/black2
+  rotate: false
+  xy: 133, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/black3
+  rotate: false
+  xy: 199, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/deco_spot_left
+  rotate: false
+  xy: 265, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/deco_spot_right
+  rotate: false
+  xy: 331, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/door_left
+  rotate: false
+  xy: 397, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/door_right
+  rotate: false
+  xy: 1, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/door_top_left
+  rotate: false
+  xy: 67, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/door_top_right
+  rotate: false
+  xy: 133, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_carpet
+  rotate: false
+  xy: 199, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_carpet_bottom
+  rotate: false
+  xy: 265, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_carpet_bottom_left
+  rotate: false
+  xy: 331, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_carpet_bottom_right
+  rotate: false
+  xy: 397, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_carpet_left
+  rotate: false
+  xy: 1, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_carpet_right
+  rotate: false
+  xy: 67, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_carpet_top
+  rotate: false
+  xy: 133, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_carpet_top_left
+  rotate: false
+  xy: 199, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_carpet_top_right
+  rotate: false
+  xy: 265, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_stone
+  rotate: false
+  xy: 331, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/floor_stone2
+  rotate: false
+  xy: 397, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/pillar_left
+  rotate: false
+  xy: 1, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/pillar_left_top
+  rotate: false
+  xy: 67, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/pillar_right
+  rotate: false
+  xy: 133, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/pillar_right_top
+  rotate: false
+  xy: 199, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/wall
+  rotate: false
+  xy: 265, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/wall_pillar_left
+  rotate: false
+  xy: 331, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/wall_pillar_left_top
+  rotate: false
+  xy: 397, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/wall_pillar_right
+  rotate: false
+  xy: 1, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/wall_pillar_right_top
+  rotate: false
+  xy: 67, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/wall_top
+  rotate: false
+  xy: 133, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/xit_bottom
+  rotate: false
+  xy: 199, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/xit_top
+  rotate: false
+  xy: 265, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/z00_tree_bottom
+  rotate: false
+  xy: 331, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/z00_tree_leafs_bottom
+  rotate: false
+  xy: 397, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tiles/z00_tree_leafs_top
+  rotate: false
+  xy: 1, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+pack4.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ui/check-off
+  rotate: false
+  xy: 1, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/textfield
+  rotate: false
+  xy: 1, 1
+  size: 14, 14
+  split: 7, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/check-on
+  rotate: false
+  xy: 30, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/cursor
+  rotate: false
+  xy: 59, 1
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-pane
+  rotate: false
+  xy: 117, 1
+  size: 5, 3
+  split: 2, 2, 1, 1
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/default-rect-pad
+  rotate: false
+  xy: 117, 1
+  size: 5, 3
+  split: 2, 2, 1, 1
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/default-pane-noborder
+  rotate: false
+  xy: 88, 1
+  size: 1, 1
+  split: 0, 0, 0, 0
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui/default-rect
+  rotate: false
+  xy: 175, 1
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-rect-down
+  rotate: false
+  xy: 146, 1
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-round
+  rotate: false
+  xy: 262, 1
+  size: 12, 20
+  split: 5, 5, 10, 9
+  pad: 5, 5, 5, 4
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+ui/default-round-down
+  rotate: false
+  xy: 204, 1
+  size: 12, 20
+  split: 5, 5, 10, 9
+  pad: 5, 5, 5, 4
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+ui/default-round-large
+  rotate: false
+  xy: 233, 1
+  size: 20, 20
+  split: 10, 9, 9, 10
+  pad: 5, 5, 5, 5
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ui/default-scroll
+  rotate: false
+  xy: 291, 1
+  size: 20, 20
+  split: 10, 9, 10, 9
+  pad: 2, 2, 2, 2
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ui/default-select
+  rotate: false
+  xy: 349, 1
+  size: 27, 20
+  split: 5, 20, 10, 9
+  pad: 4, 18, 4, 4
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+ui/default-select-selection
+  rotate: false
+  xy: 320, 1
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-slider
+  rotate: false
+  xy: 407, 1
+  size: 8, 8
+  split: 3, 3, 3, 3
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui/default-slider-knob
+  rotate: false
+  xy: 378, 1
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+ui/default-splitpane
+  rotate: false
+  xy: 465, 1
+  size: 5, 3
+  split: 2, 2, 1, 1
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/default-splitpane-vertical
+  rotate: false
+  xy: 436, 1
+  size: 3, 5
+  split: 1, 1, 2, 2
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+ui/default-window
+  rotate: false
+  xy: 1, 32
+  size: 27, 29
+  split: 14, 12, 9, 19
+  pad: 6, 6, 5, 15
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ui/selection
+  rotate: false
+  xy: 30, 32
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui/tree-minus
+  rotate: false
+  xy: 59, 32
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/tree-plus
+  rotate: false
+  xy: 88, 32
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/white
+  rotate: false
+  xy: 117, 32
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

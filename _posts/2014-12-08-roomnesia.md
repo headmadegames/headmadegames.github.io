@@ -1,8 +1,9 @@
 ---
 author: headmade
 type: image
-title: Ludum Dare 31 - Roomnesia
-description: Headmade Game Roomnesia
+title: Roomnesia - Ludum Dare 31
+description: Roomnesia by Headmade Games. This game was made for Ludum Dare 31.
+canonical: roomnesia/
 featimg: roomnesia.png
 tags: [Ludum Dare, Games]
 ---

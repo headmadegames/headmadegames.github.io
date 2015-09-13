@@ -1,0 +1,61 @@
+#N
+#N #N
+#N #N - The #adj #N
+#N vs #N
+#adj #N
+#adj #N #N
+#adj #N vs #adj #N
+The #N
+The #N #N
+The #adj #N
+The #adj #N vs The #adj #N
+About a #N
+About a #adj #N
+From #N to #N 
+#N-Man
+#N-Man - The #N
+#N-Man - The #adj #N
+#N-Man vs #N
+#N-Man vs #N-Man
+#N-Woman
+#N-Woman - The #N
+#N-Woman - The #adj #N
+#N-Woman vs #N
+#N-Woman vs #Nman
+#N-Eater
+#N-Eater - The #N
+#N-Eater - The #adj #N
+My #N #N
+My #adj #N
+My #adj #ver
+#ving #N
+#ving
+#ver
+#vers
+#ver-Man
+#ver-Man - The #adj #N
+#ver-Woman
+#ver-Woman - The #adj #N
+#vs
+#ver #vs #ver 
+#ver #ving #ver 
+#ver #vs #N
+#v #N #N
+#N #vs #N
+#N #ving #N
+#ver #ving #N
+#adj #N #vs #adj #N
+#N #vs #adj #N
+The #N #vs #adj #N
+The #ver
+The #vers
+The #ver #vs
+The #N #vs
+The #adj #ver
+The #N #ver
+The #adj #N #ver
+// These don't work well
+// The #adj #N from your #N
+// like #N like #N
+// The #adj #N from #N
+// The #N from #N

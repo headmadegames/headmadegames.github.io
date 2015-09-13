@@ -1,8 +1,9 @@
 ---
 author: headmade
 type: image
-title: Ludum Dare 33 - Sticky Pudding
-description: Headmade Game Sticky Pudding
+title: Sticky Pudding - Ludum Dare 33
+description: Sticky Pudding by Headmade Games. This game was made for Ludum Dare 33.
+canonical: sticky-pudding/
 featimg: sticky_pudding.png
 tags: [Ludum Dare, Games, Play Online]
 ---
@@ -10,7 +11,7 @@ tags: [Ludum Dare, Games, Play Online]
 Sticky Pudding is my entry to Ludum Dare 33. It's a physicy pudding on a stick simulator.
 
 <div class="play_button">
-  <a href="/play/sticky-pudding/"><i class="fa fa-gamepad fa-1x"></i> Play in your browser</a>
+  <a href="/play/sticky-pudding/"><i class="fa fa-gamepad fa-1x"></i> Play Sticky Pudding in your browser</a>
 </div>
 
 Vote and comment on <a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=42076">Ludum Dare</a>

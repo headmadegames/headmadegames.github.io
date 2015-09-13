@@ -1,12 +1,13 @@
 ---
 author: headmade
-title: Post Mortem LD33 - How I spent my time
-description: Post mortem of my Ludum Dare 33 game Sticky Pudding
+title: Post Mortem Sticky Pudding - How I spent my time
+description: Post mortem of my Ludum Dare 33 game Sticky Pudding made by Headmade Games.
+canonical: post-mortem-sticky-pudding/
 featimg: ld33_time_table.png
 tags: [Ludum Dare, Blog, Post Mortem]
 ---
 
-This Ludum Dare I tracked my time using <a href="http://www.manictime.com/" target="_blank">ManicTime</a> so I can present you this fancy table of how I spent my time:
+This Ludum Dare I tracked my time using <a href="http://www.manictime.com/" target="_blank">ManicTime</a> so I can present you this fancy table of how I spent my time making Sticky Pudding:
 
 
 <table border="0" rules="NONE" cellspacing="0">
