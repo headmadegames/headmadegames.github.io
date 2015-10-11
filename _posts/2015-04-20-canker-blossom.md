@@ -21,3 +21,10 @@ Download and run: <a href="https://github.com/headmadegames/LudumDare32/releases
 Download Android APK: <a href="https://github.com/headmadegames/LudumDare32/releases/download/v1/Ld32-Canker-Blossom.apk">Ld32-Canker-Blossom.apk</a>
 
 Source code: <a href="https://github.com/headmadegames/LudumDare32">Github Repository</a>
+
+Score card:
+<div class="center">
+    <a href="http://ldstats.info/headmade" target="_blank">
+        <img src="/img/scores/headmade-ld32.png" />
+    </a>
+</div>
