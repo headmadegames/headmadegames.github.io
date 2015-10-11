@@ -16,6 +16,7 @@ Download: <a href="https://github.com/headmadegames/LudumDare31/releases">roomne
 Source code: <a href="https://github.com/headmadegames/LudumDare31">Github Repository</a>
 
 Score card:
+
 <div class="center">
     <a href="http://ldstats.info/headmade" target="_blank">
         <img src="/img/scores/headmade-ld31.png" />

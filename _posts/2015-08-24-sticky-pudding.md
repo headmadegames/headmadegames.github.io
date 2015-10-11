@@ -25,6 +25,7 @@ Source code: <a href="https://github.com/headmadegames/LudumDare33">Github Repos
 Post mortem: <a href="/post-mortem-sticky-pudding/">Sticky Pudding post mortem</a>
 
 Score card:
+
 <div class="center">
     <a href="http://ldstats.info/headmade" target="_blank">
         <img src="/img/scores/headmade-ld33.png" />
