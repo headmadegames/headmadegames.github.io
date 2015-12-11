@@ -80,9 +80,7 @@
                 background: $mainnav_bg;
                 position: absolute;
                 top: 100%;
-                left: 50%;
-                transform: translateX(-50%);
-                width: auto;
+                width: 200%;
                 border-top: $mainnav_border;
                 border-left: $mainnav_border;
                 border-right: $mainnav_border;
@@ -94,8 +92,8 @@
                     background: $mainnav_bg;
                     position: absolute;
                     top: -6px;
-                    left: 50%;
-                    transform: translateX(-50%) rotate(45deg);
+                    left: 100%;
+                    transform: translateX(0%) rotate(45deg);
                     border-left: $mainnav_border;
                     border-top: $mainnav_border;
                 }

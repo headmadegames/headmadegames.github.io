@@ -5,10 +5,15 @@
             <ul>
                 <li class="parent"><a href="/tag/Games/">Headmade Games</a>
                     <ul>
-                        <li><a href="/quadtris">Quadtris</a></li>
-                        <li><a href="/roomnesia">Roomnesia</a></li>
-                        <li><a href="/canker-blossom">Canker Blossom</a></li>
-                        <li><a href="/sticky-pudding">Sticky Pudding</a></li>
+                        {% for post in site.posts %}
+                            {% if post.tags %}
+                                {% for tag in post.tags %}
+                                    {% if tag == 'Games' %}
+                                        <li><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></li>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %}
+                        {% endfor %}
                     </ul>
                 </li>
                 <li>
