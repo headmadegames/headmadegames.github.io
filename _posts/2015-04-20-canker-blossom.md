@@ -2,10 +2,10 @@
 author: headmade
 type: image
 title: Canker Blossom - Ludum Dare 32
-description: Canker Blossom by Headmade Games. This game was made for Ludum Dare 32.
+description: Canker Blossom by Headmade Games. This game was made for Ludum Dare 32 and it's a shakespearean insults simulator.
 canonical: canker-blossom/
 featimg: canker_blossom.png
-tags: [Ludum Dare, Games, Play Online]
+tags: [Ludum Dare, Games, Play Online, Android]
 ---
 
 Canker Blossom is my entry to Ludum Dare 32. It's a shakespearean insults simulator.
